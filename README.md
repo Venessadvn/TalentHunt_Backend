@@ -50,12 +50,12 @@ TalentHunt is a Java-based web application that simulates a virtual talent compe
 ### Setup Instructions
 
 1. Clone the repository:
-2. 
-3. 2. Import as a Maven project in your IDE (Eclipse/IntelliJ).
+ 
+2. Import as a Maven project in your IDE (Eclipse/IntelliJ).
 
-4. Configure `hibernate.cfg.xml` with your MySQL credentials.
+3. Configure `hibernate.cfg.xml` with your MySQL credentials.
 
-5. Run the `App.java` file to start testing CRUD operations.
+4. Run the `App.java` file to start testing CRUD operations.
 
 ---
 
